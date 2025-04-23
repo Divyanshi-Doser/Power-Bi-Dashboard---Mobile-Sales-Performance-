@@ -35,4 +35,5 @@ This Power BI project is designed to analyze mobile sales performance across dif
 ## Author  
 Created by **[Divyanshi Doser]**    
 Email **divyanshidoser@gmail.com**
-**LinkedIn**: [Divyanshi Doser](https://www.linkedin.com/in/divyanshi-doser)
+
+- **LinkedIn**: [Divyanshi Doser](https://www.linkedin.com/in/divyanshi-doser)
